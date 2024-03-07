@@ -26,7 +26,7 @@ const [items, setItems] = useState([]);
   return (
     <div className="container">
       <div className="heading">
-        <h1>To-Do List</h1>
+        <h1>compra del supermercado</h1>
       </div>
       <InputTextArea onChange={addItem} />
 
